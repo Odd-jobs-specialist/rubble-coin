@@ -1,0 +1,14 @@
+{
+  "name": "Rubble",
+  "symbol": "RBL",
+  "description": "It is what it sounds like - a complete rubble",
+  "creators": [
+    {
+      "address": "9kg52q6bs41JfG2NYsLUhqfBsAoMpvsrR96G2H9vb5Sf",
+      "share": 100
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/Odd-jobs-specialist/caesar-coin/main/caesar-min.png"
+}
+
+
